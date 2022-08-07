@@ -396,3 +396,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+.vs
+.idea
+*.sln
+DerivedDataChace/
+Intermediate/
+Saved/
+Binaries/
+Builds/
